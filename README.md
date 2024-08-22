@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @myszwa
-- 👀 I’m interested in Artifical Intelligence
+- 👀 I’m interested in Artifical Intelligence in Unity
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me patryk.janikowski@gmail.com
